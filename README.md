@@ -1,12 +1,16 @@
 # Otus-C-12-2024-HW1
-Analyzing zip-arhive and reversing text to ANSI
+Analyzing zip-arhive and reversing text to UTF-8
+
+analyzing zip-arhive - file main-nonzip.c
+
+reversing text to UTF-8 - file main-encoding.c
 
 Articles to study about zip:
 https://habr.com/ru/companies/vk/articles/490790/#1
 https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip.html
 https://blog2k.ru/archives/3391
 
-Articles to study about ANSI:
+Articles to study about UTF-8:
 about incoding:
 https://www.cyberforum.ru/blogs/33029/blog5139.html
 https://ru.wikipedia.org/wiki/Windows-1251#%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B
